@@ -2,8 +2,8 @@
   <h1>Hi 👋, I'm dongfix</h1>
   <h3>A horrible developer from the UK</h3>
 <hr>
-<p align="center">
   <h4>My Projects</h4>
+  <p align="center">
       🔭 I’m currently working on <a href="https://github.com/dngfx/dongbot">dongbot</a>
 </p>
 <hr>
