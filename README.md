@@ -9,7 +9,8 @@
 <hr>
   <h4>Contact me</h4>
   <p align="center">
-      <a href="https://qchat.rizon.net/?channels=premium">#premium on rizon (webchat)</a>
+      <a href="https://qchat.rizon.net/?channels=premium">#premium on rizon (webchat)</a><br>
+    <a href="https://dfx.works/irc.php">Direct irc:// link</a><br>
       (My nick is either df or dfx)
  </p>
  <hr>
