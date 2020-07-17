@@ -1,5 +1,6 @@
 <span align="center">
-  <img src="https://user-images.githubusercontent.com/294904/87245353-9c71b180-c43c-11ea-8150-4065e43aff60.jpg">
+  
+  <p align="center"><img src="https://user-images.githubusercontent.com/294904/87245353-9c71b180-c43c-11ea-8150-4065e43aff60.jpg" align="center"></p>
   
   <h1>Hi 👋, I'm dongfix</h1>
   <h3>A horrible developer from the UK</h3>
