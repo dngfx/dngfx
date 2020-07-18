@@ -7,7 +7,7 @@
 <hr>
   <h4>My Projects</h4>
   <p align="center">
-      🔭 I’m currently working on <a href="https://github.com/dngfx/dongbot">dongbot</a>
+      🔭 I’m currently working on <a href="https://github.com/dngfx/MagicBot">MagicBot</a>
 </p>
 <hr>
   <h4>Contact me</h4>
