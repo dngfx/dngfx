@@ -29,5 +29,6 @@
 <hr>
 <p align="center">
 <a href="https://twitter.com/mrdfacts" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mrdfacts" height="20" width="20" /></a><br>
-  <small>🚜 tractor gang 🚜</small>
 </p>
+<hr>
+<p align="center"><small>🚜 tractor gang 🚜</small></p>
