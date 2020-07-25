@@ -17,8 +17,7 @@
  <hr>
   <h4>My Languages / Proficiencies</h4>
   <p align="center">
-      <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>   <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></p>
-
+      CSS3 &mdash; HTML5 &mdash; Javascript &mdash; MySQL &mdash; SQLite &mdash; PHP &mdash; Python &mdash; Nginx(limited)
 </p>
 <hr>
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dngfx&show_icons=true" alt="dngfx" /></p>
