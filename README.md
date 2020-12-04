@@ -7,7 +7,7 @@
 <hr>
   <h4>My Projects</h4>
   <p align="center">
-      🔭 I’m currently working on <a href="https://github.com/dngfx/MagicBot">MagicBot</a>
+      🔭 I’m currently working on <a href="https://github.com/dngfx/MagicBotJS">MagicBot JS</a>
 </p>
 <hr>
   <h4>Contact me</h4>
@@ -17,7 +17,7 @@
  <hr>
   <h4>My Languages / Proficiencies</h4>
   <p align="center">
-      CSS3 &mdash; HTML5 &mdash; Javascript &mdash; MySQL &mdash; SQLite &mdash; PHP &mdash; Python &mdash; Nginx(limited)
+      CSS3 &mdash; HTML5 &mdash; Javascript &mdash; MySQL &mdash; SQLite &mdash; PHP &mdash; Python &mdash; Nginx
 </p>
 <hr>
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dngfx&show_icons=true" alt="dngfx" /></p>
